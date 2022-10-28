@@ -24,13 +24,13 @@ main {
 }
 
 h2 {
-  color: rgb(39, 73, 225);
+  color: rgb(0, 0, 0);
   text-align: center;
   margin: 2rem 0;
 }
 
 .input-container {
-  background-color: rgba(239, 12, 12, 0.596);
+  background-color: rgba(0, 0, 0, 0.596);
   width: 50%;
   margin: 0 auto;
   margin-bottom: 2rem;
@@ -60,12 +60,12 @@ h2 {
 }
 
 .movie {
-  color: #FFF;
+  color: #ff0000;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 2rem;
-  background: #1D1C3B;
+  background: #0b0000;
   border-radius: 0.5rem; 
   padding: 1rem;
   margin: 0 auto;
